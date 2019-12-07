@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DustDevils2/Fabrikam/_apis/build/status/Fabrikam-Maven-CI?branchName=master)](https://dev.azure.com/DustDevils2/Fabrikam/_build/latest?definitionId=12&branchName=master)
 
 # Contributing
 
